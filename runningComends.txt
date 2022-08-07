@@ -1,0 +1,2 @@
+mpicc CalcSubMatix.c CalcSubMatix.h -o runSubMatrix -lm -fopenmp //enter
+mpiexec -np 3 -hostfile host.txt ./runSubMatrix //enter
