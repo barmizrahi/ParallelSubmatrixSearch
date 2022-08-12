@@ -2,7 +2,7 @@
 A program written in c language using MPI and OpenMp to find sub matrix in another matrix.
  # description
 <img src="https://github.com/barmizrahi/ParallelSubmatrixSearch/blob/main/image.png" width="200" title="hover text">
-- The image search stops if any object is found in the image.
+ - The image search stops if any object is found in the image.
 
 # Features
  - [x]  Read from File the data (three pictures and five object).
